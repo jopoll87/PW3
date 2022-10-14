@@ -1,0 +1,23 @@
+body {
+  background-color: #F5EFE6;
+}
+h1{
+  color: #7895B2;
+}
+h2 {
+  color: #7895B2;
+}
+h3 {
+  color: #AEBDCA;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  height: 0;
+  width: 50%;
+  border-width: 7px;
+  color: #E8DFCA;
+}
+a {
+  color: hotpink;
+}
